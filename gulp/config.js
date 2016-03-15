@@ -79,7 +79,7 @@ module.exports = function () {
     testing: {
       host:        argv.host,
       username:    argv.username,
-      projectPath: 'preview.ginetta.net/skeleton/', // 'client.ginetta.net/project-name/'
+      projectPath: 'preview.ginetta.net/skeleton/', // 'client.ginetta.net/skeleton-sample-project/'
       releasePath: argv.path,
       privateKey:  argv.privateKey
     }

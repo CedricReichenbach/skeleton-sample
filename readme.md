@@ -1,4 +1,4 @@
-# project-name
+# skeleton-sample-project
 ---
 
 
